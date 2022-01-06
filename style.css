@@ -10,7 +10,7 @@ h1{
 }
 .first-section{
     display : flex;
-    margin-bottom: 150px;
+    margin-bottom: 100px;
 }
 .info{
     width: 50%;
@@ -59,6 +59,7 @@ p{
     border-radius: 20px;
     
 }
+
 .intro-3{
     margin-left: 5%;
     margin-bottom: 5%;
@@ -85,6 +86,8 @@ p{
     margin-top: 8%;
     
 }
+
+/* third section */
 
 
 
