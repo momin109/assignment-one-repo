@@ -89,6 +89,51 @@ p{
 
 /* third section */
 
+.third-section{
+        display : flex;
+        margin-bottom: 100px;
+    }
+    .third-info{
+        width: 80%;
+        padding-left: 8%;
+        padding-right: 4%;
+    margin-top: 10%;
+
+    }
+    .third-info img{
+        width: 80%;
+    }
+
+
+/*---fore section--*/
+.fore-section{
+    margin-bottom: 100px;
+}
+.services-two{
+    display: flex;
+    justify-content: space-around;
+}
+.image{
+    display: inline-block;
+    max-width: 400px;
+}
+.cardd{
+    font-size: 20px;
+    border: none;
+    width: 60%;
+    
+    padding: 5%;
+    height: 400px;
+    border-radius: 20px;
+    
+}
+.title{
+    font-size: 30px;
+}
+    
+        
+       
+    
 
 
 
