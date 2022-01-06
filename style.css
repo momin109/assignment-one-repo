@@ -1,9 +1,14 @@
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
+    box-sizing: border-box;
 }
 h1{
     font-size: 50px;
+}
+.font-height{
+    font-weight: 300;
+    line-height: 35px;
 }
 .orenge-color{
     color: orange;
@@ -22,7 +27,9 @@ margin-top: 10%;
 }
 p{
     padding: 12px 0;
+    line-height: 20px;
 }
+
 .btn{
     
     text-decoration: none;
@@ -127,19 +134,18 @@ p{
     border-radius: 20px;
     
 }
+.paragrap{
+    font-size: 18px;
+    line-height: 35px;
+}
+.text-area{
+    line-height: 30px;
+}
 .title{
     font-size: 30px;
 }
   /*--footer*/
-  .footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: red;
-    color: white;
-    text-align: center;
- } 
+ 
         
        
     
